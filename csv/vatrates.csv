@@ -1,0 +1,29 @@
+Country,Code,Standard Rate,Reduced Rate 1,Reduced Rate 2,Super Reduced Rate,Parking Rate,EU sort order
+Belgium,BE,21.0,12.0,6.0,,12.0,1
+Bulgaria,BG,20.0,9.0,,,,2
+Czech Republic,CZ,21.0,15.0,10,,,3
+Denmark,DK,25.0,,,,,4
+Germany,DE,19.0,7.0,,,,5
+Estonia,EE,20.0,9.0,,,,6
+Greece,EL,23.0,13.0,6.5,,,7
+Spain,ES,21.0,10.0,,4.0,,8
+France,FR,20.0,10.0,5.5,2.1,,9
+Croatia,HR,25.0,13.0,5.0,,,10
+Ireland,IE,23.0,13.5,9.0,4.8,13.5,11
+Italy,IT,22.0,10.0,,4.0,,12
+Cyprus,CY,19.0,9.0,5.0,,,13
+Latvia,LV,21.0,12.0,,,,14
+Lithuania,LT,21.0,9.0,5.0,,,15
+Luxembourg,LU,17.0,8.0,,3.0,12.0,16
+Hungary,HU,27.0,18.0,5.0,,,17
+Malta,MT,18.0,7.0,5.0,,,18
+Netherlands,NL,21.0,6.0,,,,19
+Austria,AT,20.0,10.0,,,12.0,20
+Poland,PL,23.0,8.0,5.0,,,21
+Portugal,PT,23.0,13.0,6.0,,13.0,22
+Romania,RO,24.0,9.0,5.0,,,23
+Slovenia,SI,22.0,9.5,,,,24
+Slovakia,SK,20.0,10.0,,,,25
+Finland,FI,24.0,14.0,10.0,,,26
+Sweden,SE,25.0,12.0,6.0,,,27
+United Kingdom,UK,20.0,5.0,,,,28

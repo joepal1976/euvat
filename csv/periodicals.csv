@@ -1,0 +1,31 @@
+Country,Code,Rate,Comment
+Belgium,BE,exempt,Multiple VAT rates without comment on which applies
+Bulgaria,BG,standard,
+Czech Republic,CZ,reduced_1,
+Denmark,DK,standard,
+Germany,DE,reduced_1,
+Estonia,EE,reduced_1,standard if mainly advertisement or pornographic
+Greece,EL,reduced_2,
+Spain,ES,super_reduced,Multiple VAT rates without comment on which applies
+France,FR,super_reduced,Multiple VAT rates without comment on which applies
+Croatia,HR,standard,reduced_2 for science magazines and reduced_1 on other if not advertising
+Ireland,IE,reduced_2,
+Italy,IT,standard,Multiple VAT rates without comment on which applies
+Cyprus,CY,reduced_2,
+Latvia,LV,reduced_1,
+Lithuania,LT,reduced_1,
+Luxembourg,LU,super_reduced,
+Hungary,HU,reduced_2,
+Malta,MT,reduced_2,
+Netherlands,NL,reduced_1,
+Austria,AT,reduced_1,
+Poland,PL,standard,Multiple VAT rates without comment on which applies
+Portugal,PT,reduced_2,
+Romania,RO,reduced_1,
+Slovenia,SI,reduced_1,
+Slovakia,SK,standard,
+Finland,FI,standard,reduced_2 if sold on subscription basis,
+Sweden,SE,reduced_2,
+United Kingdom,UK,exempt,
+
+
